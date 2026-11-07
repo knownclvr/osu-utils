@@ -1,0 +1,6 @@
+Usecase: Ingame Overlay, OBS Overlay
+Name: Autoplayer HUD
+Version: 1.0.0
+Author: local
+CompatibleWith: Tosu
+Resolution: 560x150
