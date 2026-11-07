@@ -1,0 +1,8 @@
+*.exe
+*.log
+*.tmp
+startup-error.txt
+self-test.txt
+status.json
+bin/
+obj/
